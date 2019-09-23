@@ -2,8 +2,4 @@ Third planet
 Home
 70% ocean
 30% land
-<<<<<<< HEAD
 It is more like an oblate spheroid
-=======
-It is not flat
->>>>>>> earth
