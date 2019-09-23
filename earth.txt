@@ -3,7 +3,4 @@ Home
 70% ocean
 30% land
 It is more like an oblate spheroid
-<<<<<<< HEAD
-=======
 We all live here
->>>>>>> dev
